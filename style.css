@@ -93,6 +93,9 @@ p {
 		height: 600px;
 		gap: 100px;
 	}
+	.domain {
+		text-wrap: nowrap;
+	}
 }
 
 @media (prefers-color-scheme: light) {
